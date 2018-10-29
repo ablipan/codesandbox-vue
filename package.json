@@ -1,7 +1,7 @@
 {
-  "name": "test-project",
+  "name": "vue-demo",
   "version": "1.0.0",
-  "description": "A Vue.js project",
+  "description": "A Vue.js demo",
   "main": "src/main.js",
   "private": true,
   "scripts": {
@@ -74,5 +74,8 @@
     "> 1%",
     "last 2 versions",
     "not ie <= 8"
+  ],
+  "keywords": [
+    "vue"
   ]
 }
